@@ -8,5 +8,8 @@ int main()
     scanf ("%s", str);  
       
     printf (" \n After the reverse of a string: %s ", strrev(str));  
+
+    printf("Eswar");
+
     return 0;  
 }  

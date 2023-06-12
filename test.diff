@@ -1,0 +1,26 @@
+diff --git a/linked_list.c b/linked_list.c
+index d3b948f..b7adb28 100644
+--- a/linked_list.c
++++ b/linked_list.c
+@@ -137,6 +137,8 @@ int main()
+     printf("\nAddress of single linked list \n");
+     print_address(head);
+ 
++    printf("Linked list program");
++
+     return 0;
+ }
+ 
+diff --git a/string_rev.c b/string_rev.c
+index ea75449..b633805 100644
+--- a/string_rev.c
++++ b/string_rev.c
+@@ -8,5 +8,8 @@ int main()
+     scanf ("%s", str);  
+       
+     printf (" \n After the reverse of a string: %s ", strrev(str));  
++
++    printf("Eswar");
++
+     return 0;  
+ }  
